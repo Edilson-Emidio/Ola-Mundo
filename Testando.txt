@@ -1,4 +1,7 @@
 Arquivo para testes.
 1-para ficar
+<<<<<<< HEAD
 2-para deletar
-3-linhas adicionada
+=======
+2-para deletar
+>>>>>>> parent of 15fc6ba (Nova linha adicionada e tambem morta)
