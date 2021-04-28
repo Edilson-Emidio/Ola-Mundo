@@ -1,4 +1,4 @@
 Arquivo para testes.
 1-para ficar
-2-para deletar2-para deletar
+2-para deletar
 3-linhas adicionada
